@@ -1,8 +1,12 @@
 body{
   background-color: rgb(170, 180, 177);
+  display: grid;
+  min-height: 90vh;
+  place-items: center;
 }
+
 #wrapper {
-  width: 1350px;
+  max-width: 50%;
 }
 
 .main {
@@ -11,7 +15,6 @@ body{
 }
 
 #gameboard {
-  margin: 0 auto;
   width: 610px;
 }
 
@@ -22,7 +25,6 @@ body{
 
 .btn {
   background: #3498db;
-  margin: 300px;
   text-align: center;
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
