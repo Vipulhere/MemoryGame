@@ -2,7 +2,7 @@ body{
   background-color: rgb(170, 180, 177);
 }
 #wrapper {
-  width: 1450px;
+  width: 1350px;
 }
 
 .main {
@@ -22,7 +22,7 @@ body{
 
 .btn {
   background: #3498db;
-  margin: 400px;
+  margin: 300px;
   text-align: center;
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
